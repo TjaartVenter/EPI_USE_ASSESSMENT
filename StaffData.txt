@@ -1,0 +1,5 @@
+John,Smith,20-04-1969,1,700000.00,Manager,None
+Jane,Doe,22-07-1976,2,620000.00,Employee,John Smith
+Jim,Bean,03-02-1973,3,650000.00,Employee,Jane Doe
+Roger,Wilco,18-03-1995,4,200000.00,Trainee,Jim Bean
+Susan,Roe,30-08-1996,5,250000.00,Trainee,Jim Bean
